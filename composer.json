@@ -11,7 +11,7 @@
         }
     ],
     "license": "MIT",
-    "require": {
+    "require": {"duc622/backend-2-week3" : "dev-main"
     },
     "autoload": {
         "psr-4": {
