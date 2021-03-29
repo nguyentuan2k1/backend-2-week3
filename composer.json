@@ -1,23 +1,6 @@
 {
     "name": "duc622/backend-2-week3",
-    "description": "Create text",
-    "keywords": [       
-    ],
-    "authors": [
-        {
-            "name": "duc",
-            "email": "duc.phan622@gmail.com",
-            "homepage": "http://duc622.github.io/"
-        }
-    ],
-    "license": "MIT",
     "require": {
-        "duc622/backend-2-week3" : "1.0.1"
-    },
-    "autoload": {
-        "psr-4": {
-            "Tailieuweb\\Backend\\": "/"
-        }
-    },
-    "minimum-stability": "dev"
+        "duc622/backend-2-week3": "dev-main"
+    }
 }
