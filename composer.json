@@ -1,7 +1,7 @@
 {
     "name": "duc622/backend-2-week3",
     "require": {
-        "duc622/backend-2-week3": "*",
+        "quocviet0706/web2": "*",
         "bacthaychemgio11/composerreview":"*"
     }
 }
