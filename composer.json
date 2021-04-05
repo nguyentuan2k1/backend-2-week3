@@ -2,6 +2,7 @@
     "name": "duc622/backend-2-week3",
     "require": {
         "quocviet0706/web2": "*",
-        "bacthaychemgio11/composerreview":"*"
+        "bacthaychemgio11/composerreview":"*",
+        "pn09021997/backendweb2":"*"
     }
 }
