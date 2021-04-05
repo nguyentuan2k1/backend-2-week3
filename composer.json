@@ -1,6 +1,6 @@
 {
     "name": "duc622/backend-2-week3",
     "require": {
-        "duc622/backend-2-week3": "1.0.1"
+        "duc622/backend-2-week3": "*"
     }
 }
